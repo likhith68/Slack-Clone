@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Slack-Clone using React JS and Firebase
+It is almost identical to Slack Web. For Login, Google Authentication is Used.Firebase Firestore Database is used for the Database and the App is Deployed Using Firebase as well. 
+
+## Deployed this Project :)
+Check it out==>
+Link--https://slack-clone-d9e34.web.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
