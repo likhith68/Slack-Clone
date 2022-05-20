@@ -1,0 +1,16 @@
+.homepage__container {
+    padding: 10vh 10vw;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.homepage__container>a {
+    color: green;
+    text-decoration: none;
+}
+
+.homepage__container>a:hover {
+    color: rgb(12, 85, 12);
+    text-decoration: underline;
+    font-weight: 500;
+}
