@@ -1,5 +1,5 @@
 # Slack-Clone using React JS and Firebase
-It is almost identical to Slack Web. For Login, Google Authentication is Used.Firebase Firestore Database is used for the Database and the App is Deployed Using Firebase as well. 
+It is identical to Slack Web. For Login, Google Authentication is Used.Firebase Firestore Database is used for the Database and the App is Deployed Using Firebase as well. 
 
 ## Deployed this Project :)
 Check it out==>
